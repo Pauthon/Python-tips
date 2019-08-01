@@ -1,0 +1,3 @@
+For sharing a fodler on your pc with someone on your network.
+Run the following in the terminal or command prompt: 
+$ python -m SimpleHTTPServer
