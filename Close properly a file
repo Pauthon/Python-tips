@@ -1,0 +1,4 @@
+Using the with statement we do not have to explicitely close the file. It is closed automatically.
+
+with open('file.txt','w') as file:
+    file.write(data)
